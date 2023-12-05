@@ -1,6 +1,6 @@
 # bellik-notes
 # Application to store your notes.(Not finished yet)
-
+[Preview Video](https://drive.google.com/file/d/1FXz78e92-YqBrKelcy_N7vlfMrD36O8M/view?usp=sharing)
 
 
 <ul>
